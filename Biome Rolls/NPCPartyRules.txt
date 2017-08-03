@@ -1,0 +1,42 @@
+NPC Party Generation
+
+NPC Parties are made up of 3 parts:
+1. Heroes
+2. Henchmen
+3. Men at arms
+
+The total group size is 2D6.
+
+There will be 1D4+1 Heroes totaling no more than the number of members of the PC party. They each have a chance to have magical items that they will use depending on their level. Heroes may be uniquely made if there is no equivilent level member up to 3 times the level of the highest ranking member of their race.
+
+Henchmen will be 1D4+1 totalling no more than the number of heroes. They are by defauld 1/3 the level of their superior ranking Heroes.
+
+The remaining group size will be filled out with men at arms. Men at Arms are either under armed equivilents of their superior Henchmen (no armour, 1d4 weapons) or are an even lower level.
+
+#---------#
+# Example #
+#---------#
+
+A level 1 party of 4 encounters an equivelent party of Kobolds.
+
+#Roll 2d6
+
+There are 8 members.
+
+#Roll 1d4+1
+
+There are 4 Heroes equivalent of the Kobold Chief (15 Exp)
+
+#Roll 1D100 for each kobold
+
+One has a magical item (10% chance)
+
+#Roll 1D20
+
+He has a scroll of protection of magic. He will use it if he believes that the party uses magic.
+
+#Roll 1d4+1
+
+There are 4 henchmen. These are equivelent to average kobolds (15 exp)
+
+If there were and remaining party members it would be filled with lower powered kobolds, possibly with only 1 hp 10 ac and 1-2 dmg wepon due to their low inherient level.

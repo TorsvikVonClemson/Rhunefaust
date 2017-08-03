@@ -1,0 +1,186 @@
+#----------------------#
+# Level 0 Forest Biome #
+#----------------------#
+
+Roll a Number 1-50
+
+#--- 1 ---#
+
+Minor Agricultureal Treasure
+
+You arrive in a clearing full of low growing flowers and weeds.
+
+AGRICULTURE identifies the plant as edible tubers underground (potatoes,radishes etc) yielding 2D6 of food
+
+#---2---#
+
+Major Agricultureal Treasure
+
+You arrive in a clearing full of low growing flowers and weeds.
+
+AGRICULTURE identifies the clearing as a farm that was abandoned long ago. After taking this intrest the player notices an old silk ribbon that was ties to a bush long ago. Removing the bush reveals a lockbox with an art object of small or medium size inside. The chest itsself weights 10 lbs.
+
+#---3---#
+
+Agricultureal Trap
+
+You arrive in a clearing full of low growing flowers and weeds.
+
+AGRICULTURE identifies the plant as edible tubers underground (potatoes,radishes etc) yielding 2D6 of food. The food however is toxic and mercuric making any players who eat the tubers mercuric as well. HERBALISM, HEALING, SURVIVAL, AGRICULTURE+5.
+
+#---4---#
+
+Guarded Agricultureal Treasure
+
+You arrive in a clearing full of low growing flowers and weeds.
+
+AGRICULTURE identifies one of several (see below) foods. They are easily mistaken for edible food but are very deadly if eaten. Instead with HERBALISM, HEALING, SURVIVAL, AGRICULTURE+5 the plant can be made into a potent poison.
+
+1. Blue Pomegranite -> Death by Asphyxiation when consumed. (Death Poison)
+
+#---5---#
+
+Minor Animal Handling Treasure
+
+You enter a glade sparse of trees, you spot 1D6+2 herd animals (see below) grazing. They seem undisturbed by the party.
+
+ANIMAL HANDLING identifies the animals as having wandered away from the herd while being led and the owner may still be near by. The animals can be led back to the herd the farmer giving full compensation for the effort.
+
+1. Bull/Cow 20/10 Gold Each
+2. Goat 1 Gold Each
+3. Sheep 2 Gold
+
+#---6---#
+
+Major Animal Handling Treasure
+
+You enter a glade sparse of trees, you spot 1D4 horses (see below) grazing. They seem undisturbed by the party.
+
+ANIMAL HANDLING identifies the horses as having wandered away from the herd while being led and the owner may still be near by. The horses can be led back to the herd the farmer giving full compensation for the effort.
+
+1. Riding Horse 75 Gold
+2. Draft Horse 200 Gold
+3. Light War Horse 150 Gold
+4. Medium War Horse 225 Gold
+5. Heavy War Horse 400 Gold
+
+#---7---#
+
+Animal Handling Trap
+
+You enter a glade sparse of trees, you spot 1D6+2 herd animals (see below) grazing. They seem undisturbed by the party.
+
+ANIMAL HANDLING identifies the horses as having wandered away from the herd while being led and the owner may still be near by. The animals have however been rustled and returning the animals will cause the party to encounter the rustlers (Party level +2 difficulty). TRACKING, ANIMAL HANDELING+5, LOCAL HISTORY, DIRECTION SENSE, HERALDRY, NAVIGATION. Warns the party.
+
+#---8---#
+
+Guarded Animal Handeling Treasure
+
+You enter a glade sparse of trees, you spot a lone horse grazing. It seems undisturbed by the party.
+
+ANIMAL HANDLING identifies the horses as being very well bred and appears to be the possession of a nobel that has wandered away. The animals have however been rustled and returning the animals will cause the party to encounter the rustlers (Party level +2 difficulty). TRACKING, ANIMAL HANDELING+5, LOCAL HISTORY, DIRECTION SENSE, HERALDRY, NAVIGATION. Warns the party. The horses origins are unknown but one of the rustlers may be forced to answer leading them to the home of a lord who repays the party in kind (see below).
+
+1. Elf Lord offers to craft Elven Chain Mail +1 for any party member.
+2. Roaming Waldgraf offers 100-400 Platinum Pieces
+3. Horse Lord gives the location and command word of a stone horse.
+
+#---9---#
+
+Minor Animal Training Treasure
+
+You encounter a wild animal (wolf?) while scouting a clearing.
+
+If approached the animal will leave but ANIMAL TRAINING will cause it to follow the party. This animal has the potential to become an animal companion
+
+
+#---10---#
+
+Major Animal Training Treasure
+
+You encounter a wild animal (wolf?) while scouting a clearing.
+
+If approached the animal will leave but ANIMAL TRAINING will cause it to follow the party and lead the party to a cache of treasure. This animal has the potential to become an animal companion.
+
+#---11---#
+
+Animal Training Trap
+
+You encounter a wild animal (wolf?) while scouting a clearing.
+
+If approached the animal will reveal that it is rabid. Being damaged by the animal will force the defender to make a CON check or contract Rabies. The animal will leave if ignored.
+
+#---12---#
+
+Guarded Animal Training Treasure
+
+You encounter a wild animal (wolf?) with unique markings while scouting a clearing.
+
+The creature is infact a demi god. Attempting to tame it will offend it causing it to take humanoid form fighting like a Werecreature. Wood Elves will recognize the creature immediately. If the culture is well understood someone with ANIMAL TAMING can attempt to placate it. Pleasing the demi god will cause it to lead the party to its lair where it will allow the party to take a singe weapon/armour (not special, randomly decide +-)
+
+#---13---#
+
+Minor Artistic Ability Treasure
+
+You come upon what is a long since delapitated hous. The only thing revealing its past state is the now overgrown cobble stone floor. A few knee high piles of moartered stone still stand and a pile of rubble lay pressed against a tree.
+
+If the rubble is searched with the ARTISIC ABILITY you will come upon and old piece of small artwork. That appeared otherwise worthless. With a few hours of effort it can be restored to an item of value.
+
+#---14---#
+
+Major Artisitc Ability Treasure
+
+Wandering through the woods you encounter a lone wood elf, they seem highly distracted.
+
+The wood elf does not speak Faustic and is working on an art project and they are in desperate need of constructive criticism. Someone with ARTISTIC ABILITY will appease them. They will invite you into their home, grant their hospitality for the night and give them the finished art object.
+
+#---15---#
+
+Artistic Ability Trap
+
+You encounter a section of wall that was once part of a mansion that fell over 100 years ago. Whats more impressive than the fact that this wall still stands but on the inner side there is a medium (or larger) art object, protected from weather by a still intact outcropping of celing.
+
+If anyone looks deeply into this art object to judge it using ARTISTIC ABILITY or APPRAISAL they will soon find themselves to be a part of the object! The art object is cursed and only remove curse will free the entrapped.
+
+#---16---#
+
+Guarded Artistic Ability Treasure
+
+The forest clears to reveal a bizarre scene, 23 busts on pedastals stand in a circle looking towards the center.
+
+Only one bust is true, touching the wrond one will cause them all to shatter releasing a gas. Inhaling the gas forces the player to take a save vs petrification or be turned to stone! Only after 3D6 hours of meticulous study will a player with ARTISTIC ABILITY be able to notice that one is flawed. That is the true bust, taking it will cause the other busts to fade away.
+
+#---17---#
+
+Minor Blacksmithing Treasure
+
+You come upon what is a long since delapitated hous. The only thing revealing its past state is the now overgrown cobble stone floor. A few knee high piles of moartered stone still stand and a pile of rubble littered with twisted chunks of metal lay pressed against a tree.
+
+If the rubble is searched with the BLACKSMITHING you will come upon and old piece of small artwork. That appeared otherwise worthless. With a few hours of effort it can be restored to an item of value.
+
+#---18---#
+
+Major Blacksmithing Treasure
+
+You come upon what is a long since delapitated house. The only thing revealing its past state is the now overgrown cobble stone floor. A few knee high piles of moartered stone still stand and a pile of rubble littered with several cannonballs which lay pressed against a tree.
+
+If the cannonballs are checked with BLACKSMITHING the player will notice that one is significantly lighter. Melting it down reveals the it contained several gems.
+
+#---19---#
+
+Blacksmithing Trap
+
+You come upon what is a long since delapitated hous. The only thing revealing its past state is the now overgrown cobble stone floor. A few knee high piles of moartered stone still stand and a pile of rubble littered with twisted chunks of metal lay pressed against a tree.
+
+What you haven't notice is that several of thos twisted metal chunks have severly rusted over and have developed ver sharp edges. You slice open you hand and you are lible to contract Tetnus.
+
+#---20---#
+
+Guarded Blacksmithing Treasure
+
+Wandering through the woods you encounter a lone wood elf, they seem highly distracted.
+
+The wood elf does not speak Faustic and is studying a wrought iron fencepost he had found. He wants to undestand how it was made, a player with BLACKSMITHING+5 may inform him. If the process is not explained clearly enough for him to understand he will become enraged a scream out a curse. All metal items exposed will turn to dust. Upon success he will enchant the post to become an immoveable rod.
+
+#---21---#
+
+Minor Brewing Treasure
